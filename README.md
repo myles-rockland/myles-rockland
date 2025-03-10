@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Myles Rockland, but I'm also known as Rockm in various online spaces.
+
+I'm a gameplay programmer with a hand in community management and event organisation for various game development companies.
+
+My latest project is PassBy, a mobile game that uses pseudo-multiplayer features to help players feel more in touch with their community.
+
+My current aim is to secure a role within the games industry as a gameplay programmer.
