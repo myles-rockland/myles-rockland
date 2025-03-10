@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **myles-rockland/myles-rockland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Myles "Rockm" Rockland
+
 My name is Myles Rockland, but I'm also known as Rockm in various online spaces.
 
 I'm a gameplay programmer with a hand in community management and event organisation for various game development companies.
