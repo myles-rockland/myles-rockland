@@ -18,8 +18,4 @@ My name is Myles Rockland, but I'm also known as Rockm in various online spaces.
 
 I'm a gameplay programmer with a hand in community management and event organisation for game development companies.
 
-My latest project is [PassBy](https://github.com/myles-rockland/passby), a mobile game that uses pseudo-multiplayer features to help players feel more in touch with their community.
-
-My current aim is to round out my skills as a game developer to become self-sufficient enough to take my game prototypes further.
-
-If you need someone who can program games, run online events, or manage communities, let's get in touch! I am best reached on Discord @Rockm3000 🙂
+I am best reached on Discord @Rockm3000 🙂
